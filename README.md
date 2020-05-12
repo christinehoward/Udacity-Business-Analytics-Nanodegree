@@ -1,7 +1,7 @@
 ## Projects completed for the Udacity Business Analytics Nanodegree
 
 ### Project 1: Analyze NYSE Data
-Completed an in-depth analysis of New York Stock Exchange data and created both visualizations of this data, and a dynamic financial forecast of business outcomes using advanced Excel.
+Completed an in-depth analysis of New York Stock Exchange data and created both visualizations of this data, and a dynamic financial forecast of business outcomes using advanced Excel.<br>
 Link to Sheets Workbook for Analyze NYSE Data Project: shorturl.at/qyLQ8
 
 ### Project 2: Query a Digital Music Store Database
